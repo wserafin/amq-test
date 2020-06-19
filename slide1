@@ -1,0 +1,6 @@
+Project Open Source: Strimzi
+Strimzi:
+Images de conteneurs pour rouler Apache Kafka et Zookeeper
+Outils pour gérer, configurer et surveiller des clusters Apache Kafka, topics et usagers.
+Conforme au modèle Operator de Kubernetes
+Strimzi a été accepté par la
